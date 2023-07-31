@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>
+- <b> https://github.com/JACward95/Azure-Compute-and-Networking-Walkthrough
 
 <h2>🤳Connect with me:</h2>
 
